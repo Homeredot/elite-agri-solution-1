@@ -8,5 +8,4 @@ __pycache__/
 *.log
 _tmp_pydeps/
 database_scheme/
-backend/uploads/
-products_images/
+
