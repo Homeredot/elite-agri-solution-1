@@ -1,0 +1,5 @@
+-- The backend and frontend in this workspace target the exact MySQL 8+ ecommerce admin schema
+-- provided in the project requirements for the `ecommerce_admin` database.
+--
+-- Use the SQL schema from the requirements text as the source of truth when initializing the DB.
+-- The application code expects all tables, views, seed rows, and indexes from that schema.
